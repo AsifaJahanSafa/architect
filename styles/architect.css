@@ -309,6 +309,15 @@ nav{
     font-weight:400;
 }
 @media screen and (max-width:576px) {
+    ul.nav-list  {
+      text-align: center;
+      
+    }
+
+    .nav-list li {
+        
+        font-size: 12px;
+    }
     nav ,.common-container-2{
         
         flex-direction: column;
