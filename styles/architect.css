@@ -344,9 +344,10 @@ nav{
     }
 
     .feature-love-enjoy div {
-        width: 100%;
-        padding: 20px 10px;
+        width: 80%;
+        padding: 19px 21px;
         text-align: center;
+        /* margin: 0px 20px; */
     }
 
     .some-fact {
@@ -380,5 +381,10 @@ nav{
     }
     .off {
         margin: 20px 0px;
+    }
+
+    .some-fact-des {
+       
+        padding: 10px 20px;
     }
 }
